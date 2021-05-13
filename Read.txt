@@ -1,0 +1,7 @@
+To run this script you have to turn on less secure app access
+
+1) Click on right side on your mail
+2) Click on "Manage your Google Account"
+3) On the left side, click on "Security"
+4) On bottom You have get the "Less Secure app Access"
+5) Then Turn on access
